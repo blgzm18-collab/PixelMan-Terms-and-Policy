@@ -1,0 +1,28 @@
+TERMS OF SERVICE
+
+1. Acceptance of Terms
+By using this Discord bot, you agree to these Terms of Service. If you do not agree, do not use the bot.
+
+2. Use of the Bot
+You may use the bot for lawful purposes only. You may not use the bot to harass, spam, exploit, or harm other users or servers.
+
+3. User Content
+Any content you submit through the bot remains your responsibility. You agree not to submit harmful, illegal, or malicious content.
+
+4. Bot Availability
+The bot is provided "as is" without any guarantee of uptime, performance, or reliability. The bot owner may modify, disable, or remove the bot at any time without notice.
+
+5. Data Collection
+The bot may store basic information such as user IDs, message content, or server data only when necessary for functionality. No sensitive personal information is collected intentionally.
+
+6. Prohibited Actions
+You may not:
+- Attempt to exploit or break the bot
+- Reverse engineer or modify the bot’s code without permission
+- Use the bot to violate Discord’s Terms of Service
+
+7. Liability
+The bot owner is not responsible for any damages, losses, or issues caused by the bot’s usage.
+
+8. Changes to Terms
+These Terms of Service may be updated at any time. Continued use of the bot means you accept the updated terms.
