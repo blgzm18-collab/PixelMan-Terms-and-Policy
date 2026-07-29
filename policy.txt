@@ -1,0 +1,34 @@
+PRIVACY POLICY
+
+1. Information We Collect
+This bot may collect limited data such as:
+- User IDs
+- Server IDs
+- Message content (only when required for commands)
+- Interaction logs
+
+This data is used solely to operate and improve the bot.
+
+2. How Data Is Used
+Collected data may be used for:
+- Command processing
+- Moderation features
+- Logging bot activity
+- Improving bot functionality
+
+No data is sold, shared, or transferred to third parties.
+
+3. Data Storage
+Data may be stored temporarily or permanently depending on the bot’s features. All stored data is kept securely and is not accessible to unauthorized users.
+
+4. Data Removal
+Users may request removal of stored data by contacting the bot owner. Data may also be automatically deleted after a certain period.
+
+5. Third-Party Services
+If the bot interacts with external APIs or services, those services may have their own privacy policies. The bot owner is not responsible for third-party data handling.
+
+6. Children’s Privacy
+This bot does not knowingly collect personal information from children under 13. If such data is discovered, it will be deleted.
+
+7. Changes to Policy
+This Privacy Policy may be updated at any time. Continued use of the bot means you accept the updated policy.
